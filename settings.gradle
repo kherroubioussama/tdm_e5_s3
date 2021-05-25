@@ -1,0 +1,2 @@
+rootProject.name = "tdm_e5_s3"
+include ':app'
